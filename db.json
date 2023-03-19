@@ -1,0 +1,49 @@
+{
+  "employees": [
+    {
+      "name": "Meghana",
+      "profilePic": "./images/profile4.png",
+      "gender": "female",
+      "department": "Engineer,Finance,",
+      "salary": "400000",
+      "note": "cvffbcxvfb",
+      "id": 1
+    },
+    {
+      "name": "Bhargavi",
+      "profilePic": "./images/profile3.png",
+      "gender": "female",
+      "department": "Sales,HR,",
+      "salary": "450000",
+      "note": "asdfvsetb",
+      "id": 2
+    },
+    {
+      "name": "Bharath",
+      "profilePic": "./images/profile1.png",
+      "gender": "male",
+      "department": "Sales,Finance,",
+      "salary": "425000",
+      "note": "sdfmvksgti",
+      "id": 3
+    },
+    {
+      "name": "Srishanth",
+      "profilePic": "./images/profile2.png",
+      "gender": "male",
+      "department": "Engineer,Others,",
+      "salary": "440000",
+      "note": "xdgrth",
+      "id": 4
+    },
+    {
+      "name": "Pranav Adhitya",
+      "profilePic": "images/profile1.png",
+      "gender": "male",
+      "department": "HR,Others,",
+      "salary": "450000",
+      "note": "fdhygujm",
+      "id": 5
+    }
+  ]
+}
